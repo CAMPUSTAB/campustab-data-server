@@ -12,3 +12,7 @@ requests==2.31.0
 # langgraph
 # firecrawl-py
 # tavily-python
+
+# GCP & 데이터 연동
+google-cloud-storage>=2.14.0
+redis>=5.0.0
